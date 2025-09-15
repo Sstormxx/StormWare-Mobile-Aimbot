@@ -1,2 +1,1 @@
-aimbot just for mobile only
-also team check is just aimbot with team check so dont toggle aimbot and team check
+aimbot just for mobile only, also team check is just aimbot with team check so dont toggle aimbot and team check at the same time, also this isnt the best mobile aimbot and i dont think i will update this in the future but if i do i will most likely only add an FOV circle
